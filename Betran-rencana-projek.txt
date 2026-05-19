@@ -1,0 +1,3 @@
+Rencana Projek
+-Sistem kost
+-Sistem absensi siswa secara online
