@@ -1,5 +1,5 @@
 Rencana Projek
 -Sistem kost
-*Ada dua user (admin untuk crud dan user untuk cek tagihan)
+*Ada dua user (admin untuk crud dan user untuk cek tagihan) gunakan bahasa golang agar lebih mudah
 *menambahkan metode pembayaran melalui qris
--Sistem absensi siswa secara online
+-Sistem absensi siswa secara online 
