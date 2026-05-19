@@ -1,0 +1,6 @@
+Betran Resolusi
+-Memahami penggunaan bahasa php dasar dan oop
+-Memahami penggunaan laravel
+-dapat membuat website sederhana dengan menggunakan API
+-konsisten belajar coding
+-dapatkan pengalaman magang or something like that
