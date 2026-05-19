@@ -1,3 +1,4 @@
 Rencana Projek
 -Sistem kost
+*Ada dua user (admin untuk crud dan user untuk cek tagihan)
 -Sistem absensi siswa secara online
