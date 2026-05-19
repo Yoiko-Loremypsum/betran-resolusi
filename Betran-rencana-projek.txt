@@ -1,5 +1,6 @@
 Rencana Projek
 -Sistem kost
-*Ada dua user (admin untuk crud dan user untuk cek tagihan)
-*menambahkan metode pembayaran melalui qris
+*Ada dua user (admin untuk crud dan user untuk cek tagihan) disini menggunakan php laravel
+*menambahkan metode pembayaran melalui qris juga tambahkan metode transfer melaui bank
 -Sistem absensi siswa secara online
+*untuk sistem absensi untuk be lebih baik menggunakan bahasa java dan menggunakan springboot
