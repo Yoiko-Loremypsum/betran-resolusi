@@ -4,3 +4,4 @@ Betran Resolusi
 -dapat membuat website sederhana dengan menggunakan API
 -konsisten belajar coding
 -dapatkan pengalaman magang or something like that
+-dapatkan penghasilan sendiri dari coding
