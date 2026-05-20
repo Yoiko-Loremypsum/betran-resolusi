@@ -2,5 +2,6 @@ Rencana Projek
 -Sistem kost
 *Ada dua user (admin untuk crud dan user untuk cek tagihan) gunakan bahasa golang agar lebih mudah
 *menambahkan metode pembayaran melalui qris
+*jika sudah sempurna kamu bisa coba untuk membuat aplikasinya
 -Sistem absensi siswa secara online
 *untuk sistem absensi untuk be lebih baik menggunakan bahasa java dan menggunakan springboot
